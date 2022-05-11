@@ -12,7 +12,7 @@ Jean Kaddour, **Yuchen Zhu**, Qi Liu, Matt Kusner, Ricardo Silva.
 [pdf](https://arxiv.org/pdf/2106.01939.pdf)  
 
 - Proximal Causal Learning with Kernels; Two-Stage Estimation and Moment Restriction.  
-Afsaneh Mastouri*, __Yuchen Zhu*__, Limor Gultchin, Anna Korba, Ricardo Silva, Matt Kusner, Arthur Gretton^, Krikamol Muandet^.  
+Afsaneh Mastouri\*, _Yuchen Zhu\*_, Limor Gultchin, Anna Korba, Ricardo Silva, Matt Kusner, Arthur Gretton^, Krikamol Muandet^.  
 *ICML 2021*  
  [pdf](https://arxiv.org/pdf/2105.04544.pdf)  
 
