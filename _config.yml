@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Amlan Banaji"
+title                    : "Yuchen Zhu"
 title_separator          : "-"
-name                     : &name "Amlan Banaji"
-description              : &description "PhD Student at the University of St Andrews"
-url                      : https://amlan-banaji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuchen Zhu"
+description              : &description "Machine Learning PhD Student at the University College London"
+url                      : https://yuchen-zhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amlan-banaji.github.io"
+repository               : "yuchen-zhu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,8 +83,8 @@ author:
   bio              : ""
   employer         : "University of St Andrews"
   location         :
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=7LoS1loAAAAJ&hl=en"
+  email            : "yuchen.zhu.18@ucl.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "amlan-banaji"
+  github           : "yuchen-zhu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/amlan-banaji-2a50b217b/"
-  orcid            : "https://orcid.org/0000-0002-3727-0894"
+  linkedin         : "https://www.linkedin.com/in/carolineyuchenzhu/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -139,6 +139,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - readme
   - tmp
 keep_files:
   - .git
