@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Amlan Banaji"
+title: "Yuchen Zhu"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
   -
 ---
+I am a 2nd-year PhD student at University College London, working on Causal Inference and Causal Machine Learning. I am fortunately supervised by [Dr Matt Kusner](http://mkusner.github.io) and [Professor Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). 
 
-I am a PhD student in mathematics at the University of St Andrews where I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/). My supervisor is [Professor Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and my second supervisor is [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/). I started my PhD in 2019. 
+I am interested in Causal Inference under weak observability conditions, specifically methods applicable to social sciences.
 
-My research focuses on fractal geometry, in particular interpolating between different notions of dimension, and is fully funded by a grant from the Leverhulme Trust. 
-
-I completed my undergraduate degree in mathematics at the University of Cambridge in 2018. I completed a Master’s degree in mathematics at the University of St Andrews in 2019, where I won the Postgraduate Gray Prize (Science and Medicine) for the best taught postgraduate student for the 2018-2019 session based on the Grade Point Average. 
+Prior to starting my PhD, I earned a master's degree in Machine Learning from University College London and my undergraduate degree in Mathematics from the University of Cambridge.
 
 ## Contact details
 
-School of Mathematics and Statistics  
-The University of St Andrews  
-St Andrews  
-KY16 9SS  
-Scotland  
-Email: afb8 "at" st-andrews.ac.uk
+Email: yuchen.zhu.18 "at" ucl.ac.uk

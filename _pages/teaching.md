@@ -7,19 +7,15 @@ author_profile: true
 
 
 
-## Teaching (undergraduate tutorials) at the University of St Andrews
+## Teaching postgraduate modules at University College London
 
 ### 2021 - 2022
-Tutor for MT2502 Analysis (two groups), Autumn.
+TA for COMP0086 Probabilistic and Unsupervised Learning, Term 1.
+TA for COMP0083 Advanced Topics in Machine Learning (Kernel Methods), Term 1.
+TA for COMP0081 Applied Machine Learning, Term 2
 
 ### 2020 - 2021
-Tutor for MT2505 Abstract Algebra (two groups), Spring.
+TA for COMP0089 Reinforcement Learning, Term 2
 
-Tutor for MT2502 Analysis (two groups), Autumn.
-
-### 2019 - 2020
-Tutor for MT1003 Pure and Applied Mathematics (two groups), Spring.
-
-Tutor for MT2502 Analysis (four groups), Autumn.
 
 
