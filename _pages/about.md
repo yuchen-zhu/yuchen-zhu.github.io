@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuchen Zhu"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
