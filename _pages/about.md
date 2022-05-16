@@ -22,6 +22,6 @@ Prior to starting my PhD, I earned a master's degree in Machine Learning from Un
 
 **05.2022** I am presenting my work on causal effect estimation with latent variables([slides](https://yuchen-zhu.github.io/files/S-DCE-talk.pdf)) at the [Statistics for Data-Centric Engineering Seminar Series](https://sites.google.com/view/dce-reading-group), Alan Turing Institute and on structured treatment effect estimation([slides](https://yuchen-zhu.github.io/files/SIN-uwmadison.pdf)) at [Professor Menggang Yu](https://biostat.wiscweb.wisc.edu/staff/yu-menggang/)'s group, University of Wisconsin, Madison.
 
-**10.2021** **New work**: Causal Effect Estimation for Structured Treatments has been accepted to **NeurIPS 2021**. 
+**10.2021** **New work**: [Causal Effect Estimation for Structured Treatments](https://arxiv.org/abs/2106.01939) has been accepted to **NeurIPS 2021**. 
 
-**05.2021** **New work**: Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restrictions has been accepted to **ICML 2021**.
+**05.2021** **New work**: [Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restrictions](https://arxiv.org/abs/2105.04544) has been accepted to **ICML 2021**.
