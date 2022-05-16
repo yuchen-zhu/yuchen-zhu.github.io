@@ -7,7 +7,7 @@ author_profile: true
 ### Research Articles (equal contribution* )
 - Causal Inference Under Treatment Measurement Error: A Non-parametric Instrumental Variable Approach.  
 **Yuchen Zhu**, Limor Gultchin, Arthur Gretton, Matt Kusner, Ricardo Silva.  
-*UAI 2022 (Oral Presentation, 5 \% acceptance rate)*   
+*UAI 2022* (Oral Presentation, 5\% acceptance rate)  
 pdf coming soon.
 
 - Causal Effect Estimation for Structured Treatments.  
