@@ -14,7 +14,7 @@ description              : &description "Machine Learning PhD Student at the Uni
 url                      : https://yuchen-zhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuchen-zhu.github.io"
-teaser                   : "profile2.png"
+teaser                   : "profile2.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile2.png"
+  avatar           : "profile2.jpg"
   bio              : ""
   employer         : "University College London"
   location         :
