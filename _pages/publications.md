@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Research Articles (equal contribution* )
+### Research Articles 
 - Causal Inference Under Treatment Measurement Error: A Non-parametric Instrumental Variable Approach.  
 **Yuchen Zhu**, Limor Gultchin, Arthur Gretton, Matt Kusner, Ricardo Silva.  
 *UAI 2022* (Oral Presentation, 5% acceptance rate)  
@@ -16,7 +16,7 @@ Jean Kaddour, **Yuchen Zhu**, Qi Liu, Matt Kusner, Ricardo Silva.
 [pdf](https://arxiv.org/pdf/2106.01939.pdf)  
 
 - Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restriction.  
-Afsaneh Mastouri\*, **Yuchen Zhu\***, Limor Gultchin, Anna Korba, Ricardo Silva, Matt Kusner, Arthur Gretton^, Krikamol Muandet^.  
+Afsaneh Mastouri\*, **Yuchen Zhu\***, Limor Gultchin, Anna Korba, Ricardo Silva, Matt Kusner, Arthur Gretton^, Krikamol Muandet^.  (*, ^: The first and senior authors of this paper are **ordered alphabetically**.)
 *ICML 2021*  
  [pdf](https://arxiv.org/pdf/2105.04544.pdf)  
 
