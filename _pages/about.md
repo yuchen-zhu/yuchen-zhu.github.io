@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
   -
 ---
-I am a 3rd-year PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on Causal Inference and Causal Machine Learning. I am fortunately supervised by [Dr Matt Kusner](http://mkusner.github.io) and [Professor Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). So far in my PhD, I have also enjoyed working extensively with [Professor Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) and [Dr Dominik Janzing](https://janzing.github.io).
+I am a 3rd-year PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on Causal Inference and Causal Machine Learning. I am fortunately supervised by [Dr Matt Kusner](http://mkusner.github.io) and [Professor Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). So far in my PhD, I have also worked extensively with [Professor Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) and [Dr Dominik Janzing](https://janzing.github.io).
 
 I am interested in abstracting causal models, and causal inference under weak observability conditions, specifically methods applicable to social sciences.
 
