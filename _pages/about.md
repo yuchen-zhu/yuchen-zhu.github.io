@@ -18,7 +18,9 @@ Prior to starting my PhD, I earned a master's degree in Machine Learning from Un
 
 **01.2024** **New work**: [Meaningful Causal Aggregation and Paradoxical Confounding](https://arxiv.org/abs/2304.11625) has been accepted to **CLeaR 2024**. 
 
-**04.2023** I gave an invited talk on confounded causal inference with proxies or measurement error at [Causal Inference Meets Statistics Quarterly Meeting](https://quarter-on-causality.github.io/analysis/). Talk slides are here and the poster is [here](https://quarter-on-causality.github.io/analysis/posters/Zhu_PMMR.pdf).
+**04.2023** I gave an invited talk on Causal Inference Under Treatment Measurement Error: A Nonparametric Instrumental Variable Approach  at [Causality Seminar (China)](https://sites.google.com/view/zhigao-guo/causality-seminar). Talk slides are [here](https://yuchen-zhu.github.io/files/china_causality_seminar.pdf).
+
+**04.2023** I gave an invited talk on confounded causal inference with proxies or measurement error at [Causal Inference Meets Statistics Quarterly Meeting](https://quarter-on-causality.github.io/analysis/). Talk slides are [here](https://yuchen-zhu.github.io/files/paris-talk.pdf) and the poster is [here](https://quarter-on-causality.github.io/analysis/posters/Zhu_PMMR.pdf).
 
 **01.2023** I am thrilled to join [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) to work with [Cheng Zhang](https://www.microsoft.com/en-us/research/people/chezha/) on causal inference with many measurements from 01.2023 to 03.2023. 
 
