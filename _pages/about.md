@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
   -
 ---
-I am a 2nd-year PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on Causal Inference and Causal Machine Learning. I am supervised by [Dr Matt Kusner](http://mkusner.github.io) and [Professor Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). So far in my PhD, I have also worked extensively with [Professor Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/).
+I am a 3rd-year PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on Causal Inference and Causal Machine Learning. I am fortunately supervised by [Dr Matt Kusner](http://mkusner.github.io) and [Professor Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). So far in my PhD, I have also enjoyed working extensively with [Professor Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) and [Dr Dominik Janzing](https://janzing.github.io).
 
-I am interested in Causal Inference under weak observability conditions, specifically methods applicable to social sciences.
+I am interested in abstracting causal models, and causal inference under weak observability conditions, specifically methods applicable to social sciences.
 
 Prior to starting my PhD, I earned a master's degree in Machine Learning from University College London and my undergraduate degree in Mathematics from the [University of Cambridge](https://www.maths.cam.ac.uk).
 
 ## News
 
-**06.2022** I am thrilled to join [Amazon Science Tuebingen](https://www.amazon.science/locations/tubingen) to work with [Dominik Janzing](https://janzing.github.io) on causality from 06.2022 to 12.2022. 
+**01.2024** **New work**: [Meaningful Causal Aggregation and Paradoxical Confounding](https://arxiv.org/abs/2304.11625) has been accepted to **CLeaR 2024**. 
+
+**04.2023** I gave an invited talk on confounded causal inference with proxies or measurement error at [Causal Inference Meets Statistics Quarterly Meeting](https://quarter-on-causality.github.io/analysis/). Talk slides are here and the poster is [here](https://quarter-on-causality.github.io/analysis/posters/Zhu_PMMR.pdf).
+
+**01.2023** I am thrilled to join [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) to work with [Cheng Zhang](https://www.microsoft.com/en-us/research/people/chezha/) on causal inference with many measurements from 01.2023 to 03.2023. 
+
+**06.2022** I am thrilled to join [Amazon Science Tuebingen](https://www.amazon.science/locations/tubingen) to work with [Dominik Janzing](https://janzing.github.io) on abstracting causal models from 06.2022 to 12.2022. 
 
 **05.2022** **New work**: Causal Inference Under Treatment Measurement Error: A Nonparametric Instrumental Variable Approach has been invited for an **oral presentation at UAI 2022**. 
 

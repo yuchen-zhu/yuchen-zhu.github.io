@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ### Research Articles 
+- Meaningful Causal Aggregation and Paradoxical Confounding.  
+**Yuchen Zhu**, Kailash Budhathoki, Jonas Kuebler, Dominik Janzing.  
+*CLeaR 2024*
+[pdf](https://arxiv.org/abs/2304.11625)
+
 - Causal Inference Under Treatment Measurement Error: A Non-parametric Instrumental Variable Approach.  
 **Yuchen Zhu**, Limor Gultchin, Arthur Gretton, Matt Kusner, Ricardo Silva.  
 *UAI 2022* (Oral Presentation, 5% acceptance rate)  
