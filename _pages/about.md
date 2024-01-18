@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
   -
 ---
-I am a 3rd-year PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on Causal Inference and Causal Machine Learning. I am fortunately supervised by [Dr Matt Kusner](http://mkusner.github.io) and [Professor Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). So far in my PhD, I have also worked extensively with [Professor Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) and [Dr Dominik Janzing](https://janzing.github.io).
+I am a 3rd-year PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on Causal Inference and Causal Machine Learning. I am fortunately supervised by [Matt Kusner](http://mkusner.github.io) and [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). So far in my PhD, I have also been lucky enough to work extensively with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) on the intersection of Kernel Methods and Causal Inference. From summer 2022, I had the chance to be hosted [Dominik Janzing](https://janzing.github.io) at Amazon Research Tuebingen, and [Cheng Zhang] at Microsoft Cambridge, where I worked on causal abstraction and inference with many measurements, respectively.
 
-I am interested in abstracting causal models, and causal inference under weak observability conditions, specifically methods applicable to social sciences.
+I am broadly interested in abstracting causal models, and causal inference under weak observability conditions, specifically methods applicable to social sciences. Right now, I am especially interested in understanding the role of causality in understanding the behaviour of modern deep learning architectures.
 
 Prior to starting my PhD, I earned a master's degree in Machine Learning from University College London and my undergraduate degree in Mathematics from the [University of Cambridge](https://www.maths.cam.ac.uk).
 
