@@ -6,11 +6,11 @@ author_profile: true
 
 ## Talks
 Causal Inference With Treatment Measurement Error: A Nonparametric Instrumental Variable Approach
-*(Invited talk) [Causality Seminar](https://sites.google.com/view/zhigao-guo/causality-seminar) 28/04/2023*
+*(Invited talk) [Causality Seminar](https://sites.google.com/view/zhigao-guo/causality-seminar) 28/04/2023*  
 [Slides](https://yuchen-zhu.github.io/files/china_causality_seminar.pdf)
 
 Relaxing Observability Assumption in Causal Inference with Kernel Methods
-*(Invited talk) Causal Inference Meets Statistics Quarterly Meeting 20/04/2023*
+*(Invited talk) Causal Inference Meets Statistics Quarterly Meeting 20/04/2023*  
 [Slides](https://yuchen-zhu.github.io/files/paris-talk.pdf)
 
 Causal Inference With Treatment Measurement Error: A Nonparametric Instrumental Variable Approach
