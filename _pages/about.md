@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
   -
 ---
-I am a 3rd-year [ELLIS](https://ellis.eu/phd-postdoc) PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on causal inference and abstraction, supervised by [Matt Kusner](http://mkusner.github.io), [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) and [Dominik Janzing](https://janzing.github.io/). I have also worked extensively with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) on the intersection of Kernel Methods and Causal Inference. 
+I am a 3rd-year PhD student at the [Centre for Artificial Intelligence, University College London](https://www.ucl.ac.uk/ai-centre/), working on causal inference and abstraction, supervised by [Matt Kusner](http://mkusner.github.io), [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/). I have also worked extensively with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) on the intersection of Kernel Methods and Causal Inference. I am affiliated with [ELLIS](https://ellis.eu/phd-postdoc); my industry host is [Dominik Janzing](https://janzing.github.io/).
 
 My research interests are three-fold: 1. in understanding the foundations of how causal structures arise from fine-grained models, 2. in causal inference under weak observability conditions such as hidden confounding and mismeasured treatments, and 3. how causality plays a role in understanding the behaviour of modern deep learning models.
 
-From summer 2022 to spring 2023, I interned at [Amazon Research Tuebingen](https://www.amazon.science/locations/tubingen), working on foundations of causal abstraction, and then at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), where I worked with [Cheng Zhang]((https://www.microsoft.com/en-us/research/people/chezha/)) on causal inference with latent treatments and many measurements.
+From summer 2022 to spring 2023, I interned at [Amazon Research Tuebingen](https://www.amazon.science/locations/tubingen), working on the foundations of causal abstraction, and then at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), where I worked with [Cheng Zhang]((https://www.microsoft.com/en-us/research/people/chezha/)) on causal inference with latent treatments and many measurements.
 
 Prior to starting my PhD, I earned a master's degree in Machine Learning from University College London and my undergraduate degree in Mathematics from the [University of Cambridge](https://www.maths.cam.ac.uk).
 
