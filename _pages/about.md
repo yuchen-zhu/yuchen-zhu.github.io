@@ -18,7 +18,14 @@ Prior to starting my PhD, I earned a master's degree in Machine Learning from Un
 
 ## News
 
+**05.2025** **New work**: [When Can Proxies Improve the Sample Complexity of Preference Learning?](https://arxiv.org/abs/2412.16475) has been accepted to **ICML 2025**. 
+
+**03.2024** I gave a talk on causal abstraction and the paradoxes which arise from it  at [Valence CARE reading group](https://portal.valencelabs.com/events/post/meaningful-causal-aggregation-and-paradoxical-confounding-4rMCUdq7I3Ft1nb). The [talk](https://portal.valencelabs.com/events/post/meaningful-causal-aggregation-and-paradoxical-confounding-4rMCUdq7I3Ft1nb) is recorded, check it out if you want to learn about the fundamentals and consequences of causal abstraction!
+
 **01.2024** **New work**: [Meaningful Causal Aggregation and Paradoxical Confounding](https://arxiv.org/abs/2304.11625) has been accepted to **CLeaR 2024**. 
+
+
+## Older news
 
 **04.2023** I gave an invited talk on Causal Inference Under Treatment Measurement Error: A Nonparametric Instrumental Variable Approach  at [Causality Seminar (China)](https://sites.google.com/view/zhigao-guo/causality-seminar). Talk slides are [here](https://yuchen-zhu.github.io/files/china_causality_seminar.pdf).
 
