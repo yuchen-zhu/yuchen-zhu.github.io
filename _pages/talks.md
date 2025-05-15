@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## Talks
+Meaningful Causal Aggregation and Paradoxical Confounding
+*[Valence Labs CARE Reading Group](https://portal.valencelabs.com/events/) 03/2024*  
+[Video](https://portal.valencelabs.com/events/post/meaningful-causal-aggregation-and-paradoxical-confounding-4rMCUdq7I3Ft1nb)
+
 Causal Inference With Treatment Measurement Error: A Nonparametric Instrumental Variable Approach
 *(Invited talk) [Causality Seminar](https://sites.google.com/view/zhigao-guo/causality-seminar) 28/04/2023*  
 [Slides](https://yuchen-zhu.github.io/files/china_causality_seminar.pdf)
