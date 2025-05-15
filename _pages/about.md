@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
   -
 ---
-I am a final-year ELLIS PhD student at UCL AI Centre, working on Causality and LLM Alignment, fortunately supervised by Matt Kusner, Ricardo Silva and Dominik Janzing(ELLIS). I am also grateful to have worked extensively with Arthur Gretton and spent wonderful time at [Amazon Research Tuebingen](https://www.amazon.science/locations/tubingen) and [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). In a previous life, I did Maths at Cambridge.
+I am a final-year ELLIS PhD student at UCL AI Centre, working on Causality and LLM Alignment, fortunately supervised by Matt Kusner, Ricardo Silva and Dominik Janzing(ELLIS). I am also grateful to have worked extensively with Arthur Gretton and spent wonderful time at Amazon Research Tuebingen and Microsoft Research Cambridge. In a previous life, I did Maths at Cambridge.
 
 
-My research interests are three-fold: 1. understanding the foundations of how causal structures arise from fine-grained models ([CLeaR 2024](https://arxiv.org/abs/2304.11625), [NeurIPS CRL 2024](https://openreview.net/pdf?id=BP0e8RvFwd)), 2. developing effect estimation algorithms with guarantees ([ICML 2021](https://arxiv.org/abs/2105.04544), [UAI 2022](https://proceedings.mlr.press/v180/zhu22a.html), [NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/d02e9bdc27a894e882fa0c9055c99722-Abstract.html), [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d10c7e24c96db4b222688efd11b02940-Abstract-Conference.html)), and 3. the foundations of the LLM reward hacking problem and how it can be solved ([ICML 2025](https://arxiv.org/abs/2412.16475)).
+My research interests are three-fold: 1. understanding the **foundations of how causal structures/effects arise** from fine-grained models ([CLeaR 2024](https://arxiv.org/abs/2304.11625), [NeurIPS CRL 2024](https://openreview.net/pdf?id=BP0e8RvFwd)), 2. developing **effect estimation algorithms with guarantees** ([ICML 2021](https://arxiv.org/abs/2105.04544), [UAI 2022](https://proceedings.mlr.press/v180/zhu22a.html), [NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/d02e9bdc27a894e882fa0c9055c99722-Abstract.html), [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d10c7e24c96db4b222688efd11b02940-Abstract-Conference.html)), and 3. the foundations of the **LLM reward hacking** problem and how it can be solved ([ICML 2025](https://arxiv.org/abs/2412.16475)).
 
 ## News
 
