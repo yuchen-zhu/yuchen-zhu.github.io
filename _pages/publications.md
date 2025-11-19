@@ -16,7 +16,7 @@ author_profile: true
 [pdf](https://openreview.net/pdf?id=BP0e8RvFwd)
 
 - Structured Learning of Compositional Sequential Interventions
-Jialin Yu, Andreas Koukorinis, Nicolò Colombo, **Yuchen Zhu**, Ricardo Silva.
+Jialin Yu, Andreas Koukorinis, Nicolò Colombo, **Yuchen Zhu**, Ricardo Silva.  
 *NeurIPS 2024*  
 [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d10c7e24c96db4b222688efd11b02940-Abstract-Conference.html)
 

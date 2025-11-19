@@ -28,7 +28,7 @@ My research interests are three-fold: 1. understanding the **foundations of how 
 
 **04.2023** I gave an invited talk on confounded causal inference with proxies or measurement error at [Causal Inference Meets Statistics Quarterly Meeting](https://quarter-on-causality.github.io/analysis/). Talk slides are [here](https://yuchen-zhu.github.io/files/paris-talk.pdf) and the poster is [here](https://quarter-on-causality.github.io/analysis/posters/Zhu_PMMR.pdf).
 
-**01.2023** I am thrilled to join [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) to work with [Cheng Zhang](https://www.microsoft.com/en-us/research/people/chezha/) on causal inference with many measurements from 01.2023 to 03.2023. 
+**01.2023** I am thrilled to join [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) to work on causal inference with many measurements from 01.2023 to 03.2023. 
 
 **06.2022** I am thrilled to join [Amazon Science Tuebingen](https://www.amazon.science/locations/tubingen) to work with [Dominik Janzing](https://janzing.github.io) on abstracting causal models from 06.2022 to 12.2022. 
 
